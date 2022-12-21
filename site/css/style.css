@@ -1,0 +1,105 @@
+body{
+	font-family: Roboto, Verdana, sans-serif;
+	width: 1440px;
+	height: 2096px;
+}
+h1{
+	position: absolute;
+	float: right;
+	clear: right;
+	height: 94px;
+	width: 445px;
+	left: 322px;
+	top: 50px;
+	font-size: 40px;
+	border: 10px solid black;
+}
+h3{
+	position: absolute;
+	margin-top: 21px;
+}
+h4 {
+	border: 10px solid black;
+	padding: 30px;
+	float: left;
+	margin: 30px;
+}
+p {
+	font-size: 40px;
+	float: right;
+	margin-top: 30px;
+}
+li{
+	border: 3px solid black;
+	padding: 33px;
+	float: left;
+	margin: 3px;
+	width: 198px;
+	background-color: #588157;
+
+
+}
+div.progress{
+	position: absolute;
+ 	float: right;
+ 	border: 10px solid black;
+ 	width: 541px;
+	height: 100px;
+	left: 836px;
+	top: 52px;
+}
+
+div.gray {
+	background-color: gray;
+	border: 3px solid black;
+	height: 24px;
+	width:100%;
+	
+}
+div.green {
+	position: absolute;
+	background-color: #3A5A40;
+	border: 3px solid black;
+	height:24px;
+	width:60%
+}
+div.trainers {
+	position: absolute;
+	border: 10px solid black;
+	font-size: 22px;
+	left: 322px;
+	float: right;
+	width: 443px;
+	height: 56px;
+	left: 324px;
+	top: 247px;
+}
+div.menu{
+	position: relative;
+	background-color: #3A5A40;
+	width: 275px;
+	height: 900px;
+}
+#profile {
+	position: relative;
+	background-color: #588157;
+	width: 275px;
+	height: 275px;
+}
+
+#imgprofile{
+	position: relative;
+	width: 120px;
+	height: 135px;
+	top: 50px;
+	left: 75px;
+	float:left;
+	background-color: #A3B18A;
+}
+#profile1{
+	position: relative;
+	float:right;
+	margin: 6px;
+
+}
+
